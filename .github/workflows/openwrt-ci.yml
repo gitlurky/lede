@@ -14,8 +14,7 @@ on:
     - cron: 0 20 * * *
   push:
     branches: 
-      - master
-  
+      - master  
  release:
    types: [published]
 
